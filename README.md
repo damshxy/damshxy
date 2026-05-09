@@ -1,35 +1,123 @@
-### Hello there 👋, My Name Is Mochamad Saddam
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Mochamad Saddam
 
-##
-- 🌱 I’m currently learning HTML, Css, Js, Go, Typescript, Node Js, Express
-- 📖 Graduate Bootcamp In Dumbways
-- 📫 How to reach me: mrsaddam2806@gmail.com 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif" 
+    width="100%" 
+  />
+</p>
 
-## Used Languages & Tools
+<p align="center">
+  <b>Backend Developer Enthusiast</b> <br>
+  Passionate about building scalable backend systems, APIs, and microservices.
+</p>
 
-Languages & Frameworks:
+---
 
-![Languages & Frameworks:](https://skillicons.dev/icons?i=html,css,js,golang,ts,nodejs,express)
+## 🚀 About Me
 
-Tools:
+- 🌱 Currently learning:
+  - Golang
+  - TypeScript
+  - Node.js
+  - Express.js
+  - Microservices Architecture
 
-![Tools:](https://skillicons.dev/icons?i=vscode,postgres,powershell,postman,git,github,linux)
+- 📖 Graduate of **DumbWays Bootcamp**
 
-## My Social media
+- ⚡ Interested in:
+  - Backend Engineering
+  - Distributed Systems
+  - REST API & gRPC
+  - System Design
 
-Social Media :
+- 🎯 Focused on becoming a professional Backend Engineer
 
-![SocialMedia:](https://skillicons.dev/icons?i=twitter,instagram,linkedin)
+---
 
-## Stats
+# 🛠️ Tech Stack
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=savanyv&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="savanyv" /></p>
+## Languages & Frameworks
 
-![GitHub metrics](https://metrics.lecoq.io/savanyv)
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,express,html,css" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savanyv&theme=dark" alt="savanyv" /></p>
+## Database & Tools
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,linux,vscode,postman,powershell" />
+</p>
 
-<h5 align="center">Thank U For Coming My Github 👋</h5>
+---
+
+# 📂 Current Projects
+
+- 🔥 Microservices Banking System using Golang + gRPC
+- 🚀 Synkio — Web-based File Transfer Platform
+- 🤖 Discord Music & Verification Bot using Golang
+- 🛒 E-Commerce Backend System
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+📫 Email: **mrsaddam2806@gmail.com**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=savanyv&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=savanyv&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=savanyv&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=savanyv&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
+</p>
+
+---
+
+# 🧠 Quote
+
+> “First, solve the problem. Then, write the code.” — John Johnson
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=savanyv&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile 👋</b>
+</p>
