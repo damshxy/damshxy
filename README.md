@@ -40,7 +40,7 @@
 ## Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,express,html,css" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,express,nestjs,html,css" />
 </p>
 
 ## Database & Tools
@@ -51,28 +51,70 @@
 
 ---
 
-# 📂 Current Projects
+# 🚀 Featured Project
 
-- 🔥 Microservices Banking System using Golang + gRPC
-- 🚀 Synkio — Web-based File Transfer Platform
-- 🤖 Discord Music & Verification Bot using Golang
-- 🛒 E-Commerce Backend System
+## 🛒 Cartify
+
+> Backend e-commerce API built with **Go**, **Fiber**, **GORM**, and **PostgreSQL**.
+
+### ✨ Features
+
+#### Core Features
+- 🔐 **Authentication & Authorization**
+  - Register, Login, Logout
+  - JWT Access Token (24 jam) & Refresh Token (7 hari)
+  - Role-based access (Admin & User)
+  - Token version system for secure logout
+- 📦 **Product Management**
+  - CRUD operations (Admin only)
+  - Product variants (size, color, stock, price)
+  - Pagination, search, sort
+  - Public access for viewing products
+- 🛍️ **Shopping Cart**
+  - Add, update, remove items
+  - Clear cart
+  - Stock validation
+  - Price stored at add time
+- 📝 **Order Management**
+  - Checkout from cart
+  - Order history with pagination
+  - Order status management (Admin)
+  - Stock reduction on order
+  - Auto-clear cart after checkout
+
+#### Security Features
+- 🛡️ Security headers (CSP, HSTS, XSS Protection)
+- 🔑 Request ID for tracing
+- ⏱️ Rate limiting
+- 🌐 CORS configuration
+- 🔐 API Key authentication
+
+#### Observability
+- 📊 Structured logging
+- 🔍 Request ID tracking
+- ⚠️ Error logging with stack trace
+
+### 🧰 Built With
+<p>
+  <img src="https://skillicons.dev/icons?i=go,postgres,docker,git,github,postman" />
+</p>
+
+### 🔗 Repository
+<a href="https://github.com/savanyv/cartify">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/">
+  <a href="https://instagram.com/dmvsnx">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/in/mochsaddam">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://twitter.com/">
-    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
