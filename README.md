@@ -100,7 +100,7 @@
 </p>
 
 ### 🔗 Repository
-<a href="https://github.com/savanyv/cartify">
+<a href="https://github.com/dmvsnx/cartify">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -127,24 +127,24 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=savanyv&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dmvsnx&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=savanyv&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dmvsnx&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=savanyv&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=dmvsnx&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=savanyv&theme=tokyonight&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=dmvsnx&theme=tokyonight&no-frame=true&row=1&column=6"
   />
 </p>
 
@@ -157,7 +157,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=savanyv&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dmvsnx&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
