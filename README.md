@@ -1,165 +1,127 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Mochamad Saddam
+# 💻 Hi, I'm Mochamad Saddam
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif" 
-    width="100%" 
-  />
+  <img src="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif" width="100%" alt="Banner" />
+</p>
+
+<h3 align="center">
+Backend Developer • Golang • REST API • Microservices
+</h3>
+
+<p align="center">
+Passionate about building scalable backend systems, secure APIs, and high-performance applications.
 </p>
 
 <p align="center">
-  <b>Backend Developer Enthusiast</b> <br>
-  Passionate about building scalable backend systems, APIs, and microservices.
+  <img src="https://komarev.com/ghpvc/?username=dmvsnx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning:
-  - Golang
-  - TypeScript
-  - Node.js
-  - Express.js
-  - Microservices Architecture
-
-- 📖 Graduate of **DumbWays Bootcamp**
-
-- ⚡ Interested in:
-  - Backend Engineering
-  - Distributed Systems
-  - REST API & gRPC
-  - System Design
-
-- 🎯 Focused on becoming a professional Backend Engineer
+- 💼 Backend Developer focused on building scalable and maintainable backend applications.
+- 🚀 Passionate about REST APIs, Microservices, and Distributed Systems.
+- 🌱 Currently exploring gRPC, Message Brokers, and Cloud-native Architecture.
+- 💡 Enjoy solving real-world problems through clean and efficient code.
+- 🎯 Continuously improving through personal projects and hands-on development.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,express,nestjs,html,css" />
-</p>
-
-## Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,github,linux,vscode,postman,powershell" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,express,postgres,redis,docker,git,github,linux,vscode,postman,powershell" />
 </p>
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## 🛒 Cartify
+### 🛒 Cartify
 
-> Backend e-commerce API built with **Go**, **Fiber**, **GORM**, and **PostgreSQL**.
+> A secure and scalable e-commerce REST API built with **Go**, **Fiber**, **GORM**, and **PostgreSQL**.
 
-### ✨ Features
+### ✨ Highlights
 
-#### Core Features
-- 🔐 **Authentication & Authorization**
-  - Register, Login, Logout
-  - JWT Access Token (24 jam) & Refresh Token (7 hari)
-  - Role-based access (Admin & User)
-  - Token version system for secure logout
-- 📦 **Product Management**
-  - CRUD operations (Admin only)
-  - Product variants (size, color, stock, price)
-  - Pagination, search, sort
-  - Public access for viewing products
-- 🛍️ **Shopping Cart**
-  - Add, update, remove items
-  - Clear cart
-  - Stock validation
-  - Price stored at add time
-- 📝 **Order Management**
-  - Checkout from cart
-  - Order history with pagination
-  - Order status management (Admin)
-  - Stock reduction on order
-  - Auto-clear cart after checkout
-
-#### Security Features
-- 🛡️ Security headers (CSP, HSTS, XSS Protection)
-- 🔑 Request ID for tracing
-- ⏱️ Rate limiting
-- 🌐 CORS configuration
-- 🔐 API Key authentication
-
-#### Observability
-- 📊 Structured logging
-- 🔍 Request ID tracking
-- ⚠️ Error logging with stack trace
+- 🔐 JWT Authentication & Authorization
+- 👥 Role-Based Access Control (RBAC)
+- 📦 Product & Inventory Management
+- 🛒 Shopping Cart
+- 📋 Order Management
+- 🔍 Pagination, Filtering & Search
+- 🚦 Rate Limiting
+- 🔑 API Key Authentication
+- 🛡️ Security Headers
+- 📊 Structured Logging
+- 🌐 CORS Configuration
 
 ### 🧰 Built With
-<p>
-  <img src="https://skillicons.dev/icons?i=go,postgres,docker,git,github,postman" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,postgres,git,github,postman" />
 </p>
 
-### 🔗 Repository
-<a href="https://github.com/dmvsnx/cartify">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://instagram.com/dmvsnx">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
-  <a href="https://linkedin.com/in/mochsaddam">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="center">
+  <a href="https://github.com/dmvsnx/cartify">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
 </p>
 
-📫 Email: **mrsaddam2806@gmail.com**
-
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img
-    height="180em"
+    height="170"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=dmvsnx&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
   <img
-    height="180em"
+    height="170"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dmvsnx&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=dmvsnx&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dmvsnx&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=dmvsnx&theme=tokyonight&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=dmvsnx&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"
   />
 </p>
 
 ---
 
-# 🧠 Quote
+## 🌐 Connect With Me
 
-> “First, solve the problem. Then, write the code.” — John Johnson
+<p align="center">
+  <a href="https://linkedin.com/in/mochsaddam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:mrsaddam2806@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://instagram.com/dmvsnx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## 💬 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dmvsnx&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile 👋</b>
+  ⭐ <strong>Thanks for visiting my profile!</strong>
 </p>
