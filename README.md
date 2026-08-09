@@ -5,11 +5,11 @@
 </p>
 
 <h3 align="center">
-Backend Developer • Golang • REST API • Microservices
+  Backend Developer • Golang • REST API • Microservices
 </h3>
 
 <p align="center">
-Passionate about building scalable backend systems, secure APIs, and high-performance applications.
+  Passionate about building scalable backend systems, secure APIs, and high-performance applications.
 </p>
 
 <p align="center">
@@ -20,10 +20,9 @@ Passionate about building scalable backend systems, secure APIs, and high-perfor
 
 ## 👨‍💻 About Me
 
-- 💼 Backend Developer focused on building scalable and maintainable backend applications.
-- 🚀 Passionate about REST APIs, Microservices, and Distributed Systems.
-- 🌱 Currently exploring gRPC, Message Brokers, and Cloud-native Architecture.
-- 💡 Enjoy solving real-world problems through clean and efficient code.
+- 💼 Backend Developer with experience in **Golang**, **Fiber**, **Chi**, and **gRPC**.
+- 🚀 Passionate about **REST APIs**, **Microservices**, and writing **clean, maintainable code**.
+- 💡 Enjoy solving real-world problems through efficient and scalable backend systems.
 - 🎯 Continuously improving through personal projects and hands-on development.
 
 ---
@@ -31,7 +30,7 @@ Passionate about building scalable backend systems, secure APIs, and high-perfor
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,express,postgres,redis,docker,git,github,linux,vscode,postman,powershell" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,git,github,linux,vscode,postman" />
 </p>
 
 ---
